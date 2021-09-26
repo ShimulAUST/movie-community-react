@@ -13,7 +13,6 @@ const Movie = (props) => {
 
         <div className="col-md-4 d-flex align-items-stretch mb-5">
             <div class="card">
-                {/* <img className="card-img-top" src="" alt="Card image cap"> */}
 
                 <img src={image} alt="img" height="200px" />
 

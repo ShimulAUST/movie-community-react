@@ -3,7 +3,6 @@ import React from 'react';
 
 const Cart = (props) => {
     const { cart } = props;
-    //  console.log(props.cart);
     let total = 0;
     let movieNames = [];
     for (const movie of cart) {
