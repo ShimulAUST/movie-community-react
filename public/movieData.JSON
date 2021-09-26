@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "name": "Dilli Kaand",
+        "description": "‘Dilli Kaand’ is a lazy film that seems to have been made purely to capitalise on the Delhi crime than give you any meaningful insight.",
+        "image": "https://github.com/ShimulAUST/images/blob/main/1.jpg?raw=true",
+        "rating": 1.5,
+        "language": "hindi",
+        "genre": "drama",
+        "cast": "Virendra Saxena",
+        "budget": 500000
+    },
+    {
+        "id": 2,
+        "name": "Nirmal Anand Ki Puppy",
+        "description": "The story revolves around the lives of Nirmal Anand (Karanveer Khullar), an anti-diabetic drug salesman, and his Christian wife Sarah (Gillian Pinto). ",
+        "image": "https://github.com/ShimulAUST/images/blob/main/2.jpg?raw=true",
+        "rating": 2.5,
+        "language": "hindi",
+        "genre": "drama",
+        "budget": 100000
+    },
+    {
+        "id": 3,
+        "name": "Faactory",
+        "description": "Faactory narrates the same old story of a young man's obsession with a girl he wants by hook or by crook. ",
+        "image": "https://github.com/ShimulAUST/images/blob/main/3.jpg?raw=true",
+        "rating": 2,
+        "language": "hindi",
+        "genre": "movie",
+        "budget": 600000
+    },
+    {
+        "id": 4,
+        "name": "Kya Meri Sonam Gupta Bewafa Hai?",
+        "description": "Kya Meri Sonam Gupta Bewafa Hai? is a Hindi movie released on 17 Sep, 2021. ",
+        "image": "https://github.com/ShimulAUST/images/blob/main/4.jpg?raw=true",
+        "rating": 3,
+        "language": "hindi",
+        "genre": "drama",
+        "budget": 150000
+    },
+    {
+        "id": 5,
+        "name": "Bhoot Police",
+        "description": "Bhoot Police is a Hindi movie released on 10 Sep, 2021. The movie is directed by Pavan Kirpalani",
+        "image": "https://github.com/ShimulAUST/images/blob/main/5.jpg?raw=true",
+        "rating": 3.5,
+        "language": "hindi",
+        "genre": "movie",
+        "budget": 300000
+    },
+    {
+        "id": 6,
+        "name": "Intezaar: Koi Aane Ko Hai",
+        "description": "Intezaar: Koi Aane Ko Hai is a Hindi movie released on 10 Sep, 2021. The movie is directed by Man Singh",
+        "image": "https://github.com/ShimulAUST/images/blob/main/6.jpg?raw=true",
+        "rating": 4.5,
+        "language": "hindi",
+        "genre": "Horror Movie",
+        "budget": 500000
+    },
+    {
+        "id": 7,
+        "name": "Liger",
+        "description": "Liger is a Hindi movie released on 9 Sep, 2021. The movie is directed by Puri Jagannadh.",
+        "image": "https://github.com/ShimulAUST/images/blob/main/7.jpg?raw=true",
+        "rating": 4.5,
+        "language": "Telegu",
+        "genre": "Movie",
+        "budget": 200000
+    },
+    {
+        "id": 8,
+        "name": "Jungle Cruise",
+        "description": "Jungle Cruise had way too many expectations riding on it due to its sheer scale and it somehow manages .",
+        "image": "https://github.com/ShimulAUST/images/blob/main/8.jpg?raw=true",
+        "rating": 3.5,
+        "language": "English",
+        "genre": "Movie",
+        "budget": 900000
+    },
+    {
+        "id": 9,
+        "name": "Marakkar: Arabikadalinte Simham",
+        "description": "Marakkar: Arabikadalinte Simham is a Malayalam movie released on 12 Aug, 2021..",
+        "image": "https://github.com/ShimulAUST/images/blob/main/9.jpg?raw=true",
+        "rating": 2.5,
+        "language": "Malaylam",
+        "genre": "Movie",
+        "budget": 800000
+    },
+    {
+        "id": 10,
+        "name": "June",
+        "description": "An engineering student and a woman, both of whom are in emotional turmoil in 2021.",
+        "image": "https://github.com/ShimulAUST/images/blob/main/10.jpg?raw=true",
+        "rating": 4.5,
+        "language": "Marathi",
+        "genre": "Movie",
+        "budget": 820000
+    },
+    {
+        "id": 11,
+        "name": "Torulatar Bhoot",
+        "description": "Torulatar Bhoot is a Bengali movie released on 24 Sep, 2021.",
+        "image": "https://github.com/ShimulAUST/images/blob/main/11.jpg?raw=true",
+        "rating": 3.5,
+        "language": "Bengali",
+        "genre": "Movie",
+        "budget": 400000
+    }
+]
